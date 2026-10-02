@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hiii there! 
+### I am Asmii. I am a java developer in the making. ☕
+### Java is nice and I'm getting better at making my code nice too.
+### Fun Fact : I am a Potterhead! 🪄
 <!--
 **AsmiiBhati/AsmiiBhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
