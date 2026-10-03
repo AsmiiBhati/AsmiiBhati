@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/asmiibhati?theme=catppuccinMocha&font=Noto%20Serif&ext=heatmap)<br>
-![](https://github-readme-stats.shion.dev/api?username=AsmiiBhati&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.shion.dev/api?username=AsmiiBhati&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) -->
 ![](https://streak-stats.demolab.com/?user=AsmiiBhati&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsmiiBhati&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsmiiBhati&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
